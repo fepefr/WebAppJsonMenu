@@ -1,0 +1,15 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Minha Aplicação</title>
+</head>
+<body>
+    <h1>Minha Aplicação</h1>
+    <ul>
+        <li><a href="index.jsp">Página Inicial</a></li>
+        <li><a href="disciplinas.jsp">Disciplinas Cursadas</a></li>
+    </ul>
+</body>
+</html>
